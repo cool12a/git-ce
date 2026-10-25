@@ -7,3 +7,19 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Dependencies and caches
+node_modules/
+.npm/
+.cache/
+
+# Build output and test coverage
+dist/
+coverage/
+*.tsbuildinfo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
